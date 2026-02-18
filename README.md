@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>CoreForge: Where CPU Meets Intelligence</h1>
-
+ 
 <p>
 CoreForge is a high-performance CPU-optimized ML inference benchmarking engine designed to measure, compare, and accelerate deep learning models without requiring a GPU.  
 By combining ONNX Runtime, INT8 quantization, and thread affinity tuning, CoreForge delivers measurable latency improvements on commodity hardware.

@@ -7,13 +7,13 @@ CoreForge is a high-performance CPU-optimized ML inference benchmarking engine d
 By combining ONNX Runtime, INT8 quantization, and thread affinity tuning, CoreForge delivers measurable latency improvements on commodity hardware.
 </p>
 
-<h4>
+<!-- <h4>
 <a href="https://your-frontend-url.vercel.app">Live Demo</a>
 <span> · </span>
 <a href="https://github.com/yourusername/CoreForge">Repository</a>
 <span> · </span>
 <a href="https://your-presentation-link.com">Presentation</a>
-</h4>
+</h4> -->
 
 <br>
 

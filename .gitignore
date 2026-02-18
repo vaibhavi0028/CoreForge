@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+client/node_modules/
+venv/
+server/venv/
+
+# next.js
+client/.next/
+client/out/
+
+# env
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+logs/
+*.log
+
+# misc
+.DS_Store
+Thumbs.db
+
+server/models/onnx/*.onnx
+server/models/pretrained/*.pt
+server/models/quantized/*.onnx

@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+onnx==1.16.1
+onnxruntime==1.18.1
+onnxscript==0.5.7
+openvino
+psutil
+fastapi
+uvicorn
+pydantic
+matplotlib
+plotly
+numpy==1.26.4
+tqdm
